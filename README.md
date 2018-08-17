@@ -1,3 +1,20 @@
+# clickygame
+
+Click on the images to gain points. Try to remember which images you have already clicked. If you click the same image twice, it's game over!
+
+
+# Description
+
+This site uses ReactJS to dynamically update a player's score and the positioning of tiles through state.
+
+
+# Deployed site:
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
